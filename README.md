@@ -12,10 +12,19 @@
 ---
 
 ### 🧠 About Me
-- 👨‍💻 I’m focused on building sleek UIs with modern frontend tools  
-- 🏃 I love walking — clears my mind and inspires my workflow  
-- 👯 I’m open to collaborating on web apps and frontend systems  
-- 🎯 My goal: Build interfaces that feel like magic ✨
+- <p>
+  👨‍💻 I’m focused on building sleek UIs with modern frontend tools  
+</p>
+
+-  <p>
+  🏃 I love walking — clears my mind and inspires my workflow 
+</p> 
+- <p>
+  👯 I’m open to collaborating on web apps and frontend systems 
+</p> 
+- <p>
+  🎯 My goal: Build interfaces that feel like magic ✨
+</p>
 
   <p align="center" >
     <img align="center" src="https://raw.githubusercontent.com/okineadev/okineadev/main/assets/animation.gif" alt="svg" /> 
